@@ -1,14 +1,15 @@
 # Computer-Networks
 Socket Programming
 
-compile Setps:-
-gcc server.c -o server
-gcc client.c -o client
+# compile Setps:-
+# gcc server.c -o server
+# gcc client.c -o client
 
 
-Run on terminal:-
-./server
-./client
+# Run on terminal:-
+# ./server
+# ./client
 
-#successful file transfer
-yolo.
+# successful file transfer
+ # yolo.
+ 
